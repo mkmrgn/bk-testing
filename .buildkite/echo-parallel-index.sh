@@ -1,3 +1,4 @@
 #!/bin/bash
 
 echo $BUILDKITE_PARALLEL_JOB
+echo $UNITTEST_SHARD_ID
